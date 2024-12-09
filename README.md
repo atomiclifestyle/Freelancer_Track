@@ -1,5 +1,5 @@
 # Freelancer Track
-
+------------
 ## Who Can Use It?
 
 ### Freelancers
@@ -43,5 +43,33 @@
    - Receive invoices automatically for approval.  
    - Check the task details before making a payment.  
 4. **Make Payments**:  
-   - Pay freelancers securely using a payment gateway.  
+   - Pay freelancers securely using a payment gateway.
+
+
+## Collaborators:
+<p align="center">
+  <a href="https://github.com/durgesh-5699" target="_blank">
+    <img src="https://github.com/durgesh-5699.png" width="60px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/atomiclifestyle" target="_blank">
+    <img src="https://github.com/atomiclifestyle.png" width="60px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DivyanshuShekhar55" target="_blank">
+    <img src="https://github.com/DivyanshuShekhar55.png" width="60px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Subhangee-Mohanty" target="_blank">
+    <img src="https://github.com/Subhangee-Mohanty.png" width="60px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Swayam1714" target="_blank">
+    <img src="https://github.com/Swayam1714.png" width="60px;" />
+  </a>
+</p>
+
+
+
+
 
